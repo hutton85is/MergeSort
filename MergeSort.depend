@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1530190405 source:c:\users\russell.tengi\desktop\mergesort\main.cpp
+	<iostream>
+	<fstream>
+	"include/MergeSort.h"
+
+1529319557 c:\users\russell.tengi\desktop\mergesort\include\node.h
+
+1530194928 c:\users\russell.tengi\desktop\mergesort\include\mergesort.h
+	"Node.h"
+
